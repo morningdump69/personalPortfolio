@@ -2,4 +2,34 @@
   height: 300px;
   width: 300px;
   border: 1px solid black;
+  margin-top: 10vh;
+  margin-left: 8vh;
+  margin-left: 8vh;
+}
+
+.image {
+  height: 300px;
+  width: 300px;
+}
+
+.main-display {
+  background: rgba(0, 0, 0, 0.8);
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.displayed-project {
+  background-color: white;
+  width: 600px;
+  height: 600px;
+}
+
+.displayed-project img {
+  width: 100%;
+  height: 100%;
 }
