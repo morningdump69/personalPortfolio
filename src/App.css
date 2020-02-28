@@ -9,6 +9,7 @@
   width: 100vw;
   height: 50px;
 }
+
 a {
   color: black;
   text-decoration: none;
@@ -19,13 +20,13 @@ a:visited {
 }
 
 .home {
-  width: 50px;
+  height: auto;
 }
 
 .projects {
-  width: 50px;
+  height: auto;
 }
 
 .contact {
-  width: 50px;
+  height: auto;
 }

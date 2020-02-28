@@ -9,7 +9,7 @@ const Home = () => {
     <div className="main-container">
       <div className="container1">
         <div className="text1">
-          <p> Hi I'm Ross</p>
+          <p className="Name"> HI I'M ROSS</p>
           <p>
             I am currently 19 years old living in Chester and I am an aspiring
             junior developer, I have developed my skills along side code nation,

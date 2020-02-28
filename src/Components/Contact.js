@@ -18,6 +18,12 @@ const Contact = () => {
         <p>Cheshire</p>
         <p>CH4 7RA</p>
       </div>
+      <div>
+        <h1>LinkedIn</h1>
+        <a href="https://www.linkedin.com/in/ross-burrows/">
+          https://www.linkedin.com/in/ross-burrows/
+        </a>
+      </div>
     </div>
   );
 };

@@ -16,11 +16,15 @@
   margin: 100px;
   height: 400px;
 }
+.Name {
+  font-size: 100px;
+  margin-top: 0;
+  font-weight: 900;
+}
 
 .text1 {
   font-family: "Spartan";
-  padding: 30px;
-  margin-right: 200px;
+  padding: 10px;
 }
 
 .container2 {
