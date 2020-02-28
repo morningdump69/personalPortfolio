@@ -6,8 +6,8 @@
 }
 
 .picofme {
-  width: 400px;
-  height: auto;
+  width: auto;
+  height: 400px;
   margin-left: 50px;
 }
 
@@ -19,7 +19,7 @@
 
 .text1 {
   font-family: "Spartan";
-  padding: 50px;
+  padding: 30px;
   margin-right: 200px;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .gaming {
-  width: 300px;
-  height: auto;
+  width: auto;
+  height: 300px;
   margin-left: 50px;
 }
