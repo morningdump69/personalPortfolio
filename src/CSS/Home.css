@@ -1,7 +1,61 @@
-.Heading {
-  width: 50vw;
-  font-family: "Spartan";
-  margin-top: 10vh;
+@import url("https://fonts.googleapis.com/css?family=Spartan&display=swap");
+
+.main-container {
+  display: flex;
+  flex-direction: column;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Spartan&display=swap");
+.picofme {
+  width: 400px;
+  height: auto;
+  margin-left: 50px;
+}
+
+.container1 {
+  display: flex;
+  margin: 100px;
+  height: 400px;
+}
+
+.text1 {
+  font-family: "Spartan";
+  padding: 50px;
+  margin-right: 200px;
+}
+
+.container2 {
+  display: flex;
+  margin: 50px;
+  height: 400px;
+}
+
+.fail {
+  height: 300px;
+  width: auto;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.text2 {
+  font-family: "Spartan";
+  padding: 130px;
+  margin-left: 200px;
+}
+
+.container3 {
+  display: flex;
+  margin: 100px;
+  height: 400px;
+}
+
+.text3 {
+  font-family: "Spartan";
+  padding: 100px;
+  margin-right: 200px;
+}
+
+.gaming {
+  width: 300px;
+  height: auto;
+  margin-left: 50px;
+}
