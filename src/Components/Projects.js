@@ -11,10 +11,34 @@ import todolist from "../Photos/Todolist.png";
 import diegame from "../Photos/diegame.png";
 import coffee from "../Photos/coffee.png";
 import ProjectDisplay from "./ProjectDisplay";
-import { render } from "@testing-library/react";
 
 class Projects extends React.Component {
   state = {
+    tiles: [
+      { image: calculator, src: "https://morningdump69.github.io/Calculator/" },
+      {
+        image: coffee,
+        src: "https://morningdump69.github.io/coffee-react-challenge/"
+      },
+      {
+        image: cardgame,
+        src: "https://morningdump69.github.io/card-game-challenge/"
+      },
+
+      { image: diegame, src: "https://morningdump69.github.io/diegame/" },
+
+      { image: todolist, src: "https://morningdump69.github.io/todolist/" },
+
+      { image: drumkit, src: "https://morningdump69.github.io/drunkit/" },
+
+      { image: keycode, src: "https://morningdump69.github.io/keycode/" },
+      {
+        image: fruitmachine,
+        src: "https://morningdump69.github.io/fruitmachine/"
+      },
+
+      { image: firstwebsite, src: "https://morningdump69.github.io/MyWebpage/" }
+    ],
     myImages: [
       calculator,
       coffee,
@@ -47,11 +71,16 @@ class Projects extends React.Component {
           <ProjectDisplay
             unClick={this.removeClickHandler}
             image={this.state.myImages[this.state.currentProject]}
+            source={this.state.tiles[this.state.currentProject].src}
           />
         )}
-        {this.state.myImages.map((image, index) => {
+
+        {this.state.tiles.map((tile, index) => {
           return (
-            <ProjectLayout im={image} click={() => this.clickHandler(index)} />
+            <ProjectLayout
+              im={tile.image}
+              click={() => this.clickHandler(index)}
+            />
           );
         })}
       </div>

@@ -6,7 +6,7 @@ const ProjectDisplay = props => {
     <div className="outer">
       <div className="main-display" onClick={props.unClick}></div>
       <div className="displayed-project">
-        <img src={props.image} />
+        <iframe className="project-iframe" src={props.source}></iframe>
       </div>
     </div>
   );
