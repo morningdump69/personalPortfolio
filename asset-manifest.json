@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/personalPortfolio/static/css/main.b535f5ee.chunk.css",
+    "main.js": "/personalPortfolio/static/js/main.23794b4f.chunk.js",
+    "main.js.map": "/personalPortfolio/static/js/main.23794b4f.chunk.js.map",
+    "runtime-main.js": "/personalPortfolio/static/js/runtime-main.b86aea7c.js",
+    "runtime-main.js.map": "/personalPortfolio/static/js/runtime-main.b86aea7c.js.map",
+    "static/js/2.0512ea3f.chunk.js": "/personalPortfolio/static/js/2.0512ea3f.chunk.js",
+    "static/js/2.0512ea3f.chunk.js.map": "/personalPortfolio/static/js/2.0512ea3f.chunk.js.map",
+    "index.html": "/personalPortfolio/index.html",
+    "precache-manifest.48d171d4e5d6d350d014d51ee6ea81a9.js": "/personalPortfolio/precache-manifest.48d171d4e5d6d350d014d51ee6ea81a9.js",
+    "service-worker.js": "/personalPortfolio/service-worker.js",
+    "static/css/main.b535f5ee.chunk.css.map": "/personalPortfolio/static/css/main.b535f5ee.chunk.css.map",
+    "static/js/2.0512ea3f.chunk.js.LICENSE.txt": "/personalPortfolio/static/js/2.0512ea3f.chunk.js.LICENSE.txt",
+    "static/media/Drumkit.png": "/personalPortfolio/static/media/Drumkit.23b7f180.png",
+    "static/media/Fail.jpg": "/personalPortfolio/static/media/Fail.634923a0.jpg",
+    "static/media/Keycode.png": "/personalPortfolio/static/media/Keycode.cd79078a.png",
+    "static/media/Myself.jpg": "/personalPortfolio/static/media/Myself.99f4362f.jpg",
+    "static/media/Todolist.png": "/personalPortfolio/static/media/Todolist.1e901121.png",
+    "static/media/calculator.png": "/personalPortfolio/static/media/calculator.a6907fab.png",
+    "static/media/cardgame.png": "/personalPortfolio/static/media/cardgame.655bbe71.png",
+    "static/media/coffee.png": "/personalPortfolio/static/media/coffee.3d3bba5d.png",
+    "static/media/diegame.png": "/personalPortfolio/static/media/diegame.55f093d9.png",
+    "static/media/firstwebsite.png": "/personalPortfolio/static/media/firstwebsite.624707f5.png",
+    "static/media/fruitmachine.png": "/personalPortfolio/static/media/fruitmachine.f23e1f9b.png",
+    "static/media/gaming.jpg": "/personalPortfolio/static/media/gaming.93df7dac.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b86aea7c.js",
+    "static/js/2.0512ea3f.chunk.js",
+    "static/css/main.b535f5ee.chunk.css",
+    "static/js/main.23794b4f.chunk.js"
+  ]
+}
